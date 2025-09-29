@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "152817545150",
+    "project_id": "ar-campus-treasure-hunt-app",
+    "storage_bucket": "ar-campus-treasure-hunt-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:152817545150:android:da965608dc3d822d38d3ef",
+        "android_client_info": {
+          "package_name": "com.vinee.arcampustreasurehunt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1dSeYCMom9dQX_k3e01zBCDPdrMi32f4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
